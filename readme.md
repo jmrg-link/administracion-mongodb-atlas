@@ -24,14 +24,14 @@
 
 ## Listado de Temas del Curso: 💯
 01. [Instalación de MongoDB Community](./01-Instalacion_mongodb_community/readme.md)
-02. [Reforzamiento de Javascript]
-03. [Operadores JS]
-04. [Estructura JS]
-05. [Funciones JS]
-06. [Objetos JS]
-07. [Utilidades JS]
-08. [Funciones Asincronas JS]
-09. [Estructura JSON]
+2.  [Reforzamiento de Javascript](./02-Reforzamiento-Javascrpit/readme.md)
+3.  [Operadores JS]
+4.  [Estructura JS]
+5.  [Funciones JS]
+6.  [Objetos JS]
+7.  [Utilidades JS]
+8.  [Funciones Asincronas JS]
+9.  [Estructura JSON]
 10. [Modulos JS]
 11. [Introduccion NodeJS]
 12. [Servidor Basico NodeJS]
