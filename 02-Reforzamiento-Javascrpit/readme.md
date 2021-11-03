@@ -1,5 +1,5 @@
 # Introducción a JavaScript
-**[Volver al indice](../readme.md):arrow_left:**
+**[Volver al indice](../readme.md#listado):arrow_left:**
 
 ## Sintaxis básica
 ```javascript
