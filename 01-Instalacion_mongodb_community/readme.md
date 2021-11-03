@@ -1,5 +1,5 @@
 # Instalación de MongoDB (versión libre Community Server)
-
+**[Volver al indice](../readme.md):arrow_left:**
 ## Instalación de mongod (servidor) 
 
 1. Descarga el paquete de instalación desde [mongodb](https://www.mongodb.com/try/download/community)
@@ -30,3 +30,5 @@ mongod --dbpath <ruta-directorio-datos>
 ```
 
 Levanta el servidor en localhost:27017 // --port <puerto> se puede levantar en un puerto diferente
+
+**[Volver al indice](../readme.md):arrow_left:**
