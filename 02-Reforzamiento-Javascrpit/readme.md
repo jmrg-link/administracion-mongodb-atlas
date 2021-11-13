@@ -10,7 +10,7 @@ comentario multilinea
 // comentario en una linea  
 
 // - Ignora espacios en blanco
-// -Es case sensitive 
+// - Es case sensitive 
 // - Las instrucciones finalizan con ; (opcional) ASI
 
 console.log('Hola universo')
